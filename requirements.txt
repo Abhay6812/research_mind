@@ -1,0 +1,16 @@
+# LangChain agents and LCEL runnables
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+
+# Tavily-backed web search and page scraping
+requests
+beautifulsoup4
+
+# Streamlit interface and .env loading
+streamlit
+python-dotenv
+
+# Required by the Google Gen AI SDK version selected by the resolver
+tenacity>=8.1,<9.2

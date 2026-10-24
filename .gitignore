@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+.venv/
+.venv-clean/
+.venv-recovery/
+.uv-cache/
+__pycache__/
+*.py[cod]
